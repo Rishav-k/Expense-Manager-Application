@@ -1,6 +1,7 @@
 # Expense Manager App
 
-![App Screenshot](screenshot.png)
+
+![App Screenshot](<img width="264" alt="Screenshot 2024-07-01 at 3 17 26 PM" src="https://github.com/Rishav-k/Expense-Manager-Application/assets/76813135/e19c9c88-dce6-4805-a771-b836cdd4745d">)
 
 The Expense Manager App is a mobile application designed to help users track their financial transactions and manage expenses effectively. Built for iOS devices, this app provides a user-friendly interface that allows users to record income and expenditure details seamlessly.
 
@@ -20,8 +21,6 @@ The Expense Manager App is a mobile application designed to help users track the
   
 - **UIKit**: Used for building the user interface components.
   
-- **Core Data**: For local data storage and management.
-  
 - **MVVM Architecture**: Follows Model-View-ViewModel architecture for clear separation of concerns.
 
 ## Design Pattern
@@ -39,4 +38,4 @@ This application follows the **MVVM (Model-View-ViewModel)** design pattern. The
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/expense-manager-app.git
+   https://github.com/Rishav-k/Expense-Manager-Application.git
