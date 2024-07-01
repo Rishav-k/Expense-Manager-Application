@@ -1,7 +1,11 @@
 # Expense Manager App
 
+![App Screenshot]()
+<img width="327" alt="Screenshot 2024-07-01 at 3 17 36 PM" src="https://github.com/Rishav-k/Expense-Manager-Application/assets/76813135/dc594da2-6f3b-4313-9e67-e5d1e5e1a46d">
+<img width="350" alt="Screenshot 2024-07-01 at 3 19 17 PM" src="https://github.com/Rishav-k/Expense-Manager-Application/assets/76813135/9b21cd1a-9ed1-4d89-b89f-5a3930641693">
+<img width="331" alt="Screenshot 2024-07-01 at 3 19 54 PM" src="https://github.com/Rishav-k/Expense-Manager-Application/assets/76813135/de3fe9e5-4ad5-41f9-9d94-ee6698698c27">
 
-![App Screenshot](<img width="264" alt="Screenshot 2024-07-01 at 3 17 26 PM" src="https://github.com/Rishav-k/Expense-Manager-Application/assets/76813135/e19c9c88-dce6-4805-a771-b836cdd4745d">)
+
 
 The Expense Manager App is a mobile application designed to help users track their financial transactions and manage expenses effectively. Built for iOS devices, this app provides a user-friendly interface that allows users to record income and expenditure details seamlessly.
 
